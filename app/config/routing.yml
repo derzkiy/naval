@@ -1,0 +1,7 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+ship:
+    resource: "@ShipBundle/Controller/"
+    type:     rest
+    host: naval.dev
